@@ -69,6 +69,6 @@ src/
    npm run dev
    ```
 4. Abrir el navegador en http://localhost:5173
-<sub><i>(Asegúrate de que el backend de Spring Boot esté corriendo en el mismo host (o configurar el proxy si es necesario))</i></sub>
+<sub><i>(Asegúrate de que el backend de Spring Boot esté corriendo en el puerto del backend Spring Boot (o configurar el proxy si es necesario))</i></sub>
 ## 🧠 Autor
 Desarrollado por Miguel Daniel Velandia Pinilla (Aidnalev), estudiante de Ingeniería de Sistemas.
